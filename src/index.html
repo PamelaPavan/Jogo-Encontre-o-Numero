@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Guess the number</title>
+  </head>
+  <body onload="inicio();">
+    <main>
+      <div id="welcomeScreen">
+        <h2>Encontre o Número </h2><br/>
+        <h1>Por favor, insira um número de pelo menos 4 dígitos e até 6 dígitos</h1>
+      </div>
+
+      <div id="gameArea">
+        <section>
+          <h3>Sua Escolha:</h3>
+          <h3 id="textOutput" style="color: rgba(174, 11, 11, 0.779)"></h3>
+          <input type="number" id="inputBox" />
+          <button id="novoJogoBotao" onclick="simulaEnter()">OK</button>
+        </section>
+        <section class="stats">
+          <div class="info">
+            <p>Número de tentativas:</p>
+            <span id="qTentativas"></span>
+          </div>
+          <div class="info">
+            <p>Suas tentativas:</p>
+            <span id="tentativas"></span>
+          </div>
+        </section>
+        <br>
+        <button id="novoJogoBotao" onclick="novoJogo()">NOVO JOGO</button>
+      </div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
