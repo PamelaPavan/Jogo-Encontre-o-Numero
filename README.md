@@ -61,10 +61,6 @@ Exibição das tentativas e dos números já digitados pelo usuário.
 Botão para jogar novamente "NOVO JOGO". 
 Divirta-se jogando! 🎮
 </p>
-## Agradecimentos
-<p align="justify">
-Agradeço à CompassUOL por providenciar o acesso aos cursos da Udemy, que geraram o aprendizado e desenvolvimento necessário para esta implementação e muito mais.
-</p>
 ## Licença
 Este projeto é distribuído sem uma licença explícita e é destinado ao uso educacional e de entretenimento.
 </p>
