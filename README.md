@@ -41,16 +41,6 @@ Caso seja informado um valor inválido pelo usuário, o mesmo não será incluid
 2) Ajustar as pistas fornecidas ao jogador para incentivar o uso do raciocínio lógico em detrimento da dependência da sorte. Por exemplo, se o jogador acertar um dígito, essa informação poderia ser revelada a ele.
 </p>
 
-## Detalhes do Desenvolvimento
-Passos:
-
-1) O repositório específico do desafio contido no Github foi clonado;
-2) A branch foi criada para submeter o código no Github;
-3) Um arquivo foi criado para colocar o programa JavaScript (.js);
-4) Desenvolvimento do código;
-5) Após testado na máquina local, os arquivos de código e o README foram adicionados no GitHub.
-
-
 ## Dificuldades Encontradas
 <p align="justify">
 As principais dificuldades encontradas envolvem o desenvolvimento do código:
